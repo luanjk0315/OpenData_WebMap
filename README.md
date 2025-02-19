@@ -1,1 +1,3 @@
 # OpenData_WebMap
+
+This web map is a dynamic, interactive visualization tool built entirely using open-source technologies, demonstrating the power and flexibility of community-driven geospatial tools. Developed in QGIS and exported to the web via the qgis2web plugin, the map integrates diverse open datasets—including OpenStreetMap (OSM) infrastructure, General Transit Feed Specification (GTFS) transit routes, municipal tree inventories, and administrative boundaries—to create an accessible platform for urban exploration and analysis. Leveraging JavaScript libraries like Leaflet.js or OpenLayers, the map enables users to toggle layers, view real-time transit data, and interact with pop-ups displaying detailed attributes (e.g., park amenities, bus schedules).
